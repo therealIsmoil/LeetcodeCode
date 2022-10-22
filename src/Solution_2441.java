@@ -1,4 +1,7 @@
 public class Solution_2441 {
+    /**
+     * Accepted
+     * */
     public int findMaxK(int[] nums) {
         int temp = -1;
 
